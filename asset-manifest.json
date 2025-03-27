@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/trippieplanningai/static/css/main.ccd27885.css",
-    "main.js": "/trippieplanningai/static/js/main.cd0622a5.js",
-    "static/js/453.81cfbdc9.chunk.js": "/trippieplanningai/static/js/453.81cfbdc9.chunk.js",
-    "static/media/me.png": "/trippieplanningai/static/media/me.e29fd74b49b418611591.png",
-    "static/media/homebackground.png": "/trippieplanningai/static/media/homebackground.8a6d03d4312f5d9df5c6.png",
-    "index.html": "/trippieplanningai/index.html",
-    "main.ccd27885.css.map": "/trippieplanningai/static/css/main.ccd27885.css.map",
-    "main.cd0622a5.js.map": "/trippieplanningai/static/js/main.cd0622a5.js.map",
-    "453.81cfbdc9.chunk.js.map": "/trippieplanningai/static/js/453.81cfbdc9.chunk.js.map"
+    "main.css": "/tripieplanningai/static/css/main.ccd27885.css",
+    "main.js": "/tripieplanningai/static/js/main.ba1d291f.js",
+    "static/js/453.1959b06b.chunk.js": "/tripieplanningai/static/js/453.1959b06b.chunk.js",
+    "static/media/me.png": "/tripieplanningai/static/media/me.e29fd74b49b418611591.png",
+    "static/media/homebackground.png": "/tripieplanningai/static/media/homebackground.8a6d03d4312f5d9df5c6.png",
+    "index.html": "/tripieplanningai/index.html",
+    "main.ccd27885.css.map": "/tripieplanningai/static/css/main.ccd27885.css.map",
+    "main.ba1d291f.js.map": "/tripieplanningai/static/js/main.ba1d291f.js.map",
+    "453.1959b06b.chunk.js.map": "/tripieplanningai/static/js/453.1959b06b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccd27885.css",
-    "static/js/main.cd0622a5.js"
+    "static/js/main.ba1d291f.js"
   ]
 }
