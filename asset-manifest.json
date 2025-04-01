@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/projectsite/static/css/main.5b15d15e.css",
-    "main.js": "/projectsite/static/js/main.c83a0b79.js",
-    "static/js/453.f8b6140f.chunk.js": "/projectsite/static/js/453.f8b6140f.chunk.js",
-    "static/media/me.png": "/projectsite/static/media/me.e29fd74b49b418611591.png",
-    "static/media/homebackground.png": "/projectsite/static/media/homebackground.8a6d03d4312f5d9df5c6.png",
-    "index.html": "/projectsite/index.html",
-    "main.5b15d15e.css.map": "/projectsite/static/css/main.5b15d15e.css.map",
-    "main.c83a0b79.js.map": "/projectsite/static/js/main.c83a0b79.js.map",
-    "453.f8b6140f.chunk.js.map": "/projectsite/static/js/453.f8b6140f.chunk.js.map"
+    "main.css": "/tripie-ai/static/css/main.5b15d15e.css",
+    "main.js": "/tripie-ai/static/js/main.965ff5af.js",
+    "static/js/453.42aafa2f.chunk.js": "/tripie-ai/static/js/453.42aafa2f.chunk.js",
+    "static/media/me.png": "/tripie-ai/static/media/me.e29fd74b49b418611591.png",
+    "static/media/homebackground.png": "/tripie-ai/static/media/homebackground.8a6d03d4312f5d9df5c6.png",
+    "index.html": "/tripie-ai/index.html",
+    "main.5b15d15e.css.map": "/tripie-ai/static/css/main.5b15d15e.css.map",
+    "main.965ff5af.js.map": "/tripie-ai/static/js/main.965ff5af.js.map",
+    "453.42aafa2f.chunk.js.map": "/tripie-ai/static/js/453.42aafa2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b15d15e.css",
-    "static/js/main.c83a0b79.js"
+    "static/js/main.965ff5af.js"
   ]
 }
