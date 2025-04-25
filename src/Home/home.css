@@ -93,8 +93,16 @@
    border-bottom: none;
 }
 .modal-header .btn-close {
-  filter: invert(1); 
+  filter: invert(1);  
   opacity: 1;
+  border: none;  
+  outline: none;  
+  transition: border 0.3s ease, box-shadow 0.3s ease;  
 }
 
+.modal-header .btn-close:focus,
+.modal-header .btn-close:active {
+  border: 2px solid #e4dfe4;  
+  box-shadow: 0 0 0 4px rgba(65, 64, 64, 0.79);  
+}
 
