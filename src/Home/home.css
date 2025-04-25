@@ -87,4 +87,14 @@
     padding: 3rem 2rem;
   }
 }
-  
+
+.video-modal-header {
+   background: linear-gradient(to right, #1a1a1a, #2d2d2d);
+   border-bottom: none;
+}
+.video-modal-header .btn-close {
+  filter: invert(1); 
+  opacity: 1;
+}
+
+
