@@ -1,0 +1,101 @@
+.login-page {
+  min-height: 100vh;
+  background: #fff;
+  padding: 2rem 0;
+}
+
+.login-card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  backdrop-filter: blur(10px);
+}
+
+.login-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  background: linear-gradient(45deg, #00ff9d, #00b8ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+.social-login {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.google-btn {
+  background: #DB4437;
+  color: #fff;
+  border: none;
+}
+
+.google-btn:hover {
+  background: #c53929;
+}
+
+.facebook-btn {
+  background: #1877f2;
+  color: #fff;
+}
+
+.facebook-btn:hover {
+  background: #166fe5;
+}
+
+.apple-btn {
+  background: #000;
+  color: #fff;
+}
+
+.apple-btn:hover {
+  background: #1a1a1a;
+}
+
+
+
+.form-control {
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  border: 1px solid #dee2e6;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #00b8ff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 184, 255, 0.25);
+}
+
+.form-control.is-invalid {
+  border-color: #dc3545;
+}
+
+.form-control.is-invalid:focus {
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}
+
+
+
+@media (max-width: 767.98px) {
+  .login-card {
+    margin: 1rem;
+  }
+  
+  .login-heading {
+    font-size: 1.75rem;
+  }
+} 
