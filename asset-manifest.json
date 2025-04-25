@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tripie-planning-ai/static/css/main.fd71a1a9.css",
+    "main.css": "/tripie-planning-ai/static/css/main.19911d29.css",
     "main.js": "/tripie-planning-ai/static/js/main.e3abd24f.js",
     "static/js/453.19686979.chunk.js": "/tripie-planning-ai/static/js/453.19686979.chunk.js",
     "static/media/me.png": "/tripie-planning-ai/static/media/me.e29fd74b49b418611591.png",
     "static/media/homebackground.png": "/tripie-planning-ai/static/media/homebackground.8a6d03d4312f5d9df5c6.png",
     "index.html": "/tripie-planning-ai/index.html",
-    "main.fd71a1a9.css.map": "/tripie-planning-ai/static/css/main.fd71a1a9.css.map",
+    "main.19911d29.css.map": "/tripie-planning-ai/static/css/main.19911d29.css.map",
     "main.e3abd24f.js.map": "/tripie-planning-ai/static/js/main.e3abd24f.js.map",
     "453.19686979.chunk.js.map": "/tripie-planning-ai/static/js/453.19686979.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd71a1a9.css",
+    "static/css/main.19911d29.css",
     "static/js/main.e3abd24f.js"
   ]
 }
